@@ -1,3 +1,4 @@
+#!/bin/bash
 # rpi_zram install
 
 #Download the script and copy to /usr/bin/ folder
